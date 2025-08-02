@@ -40,7 +40,7 @@
 
 <small>Zhi Zhou(@CodeColorist)</small>
 
-[![](preview/D2T2 - ModJack - Hijacking the MacOS Kernel - Zhi Zhou.png)](D2T2 - ModJack - Hijacking the MacOS Kernel - Zhi Zhou.pdf)
+[![](preview/D2T2-ModJack-Hijacking-the-MacOS-Kernel.png)](D2T2-ModJack-Hijacking-the-MacOS-Kernel.pdf)
 
 [recording](https://www.youtube.com/watch?v=OVT1DrSiLWQ)
 
